@@ -4,4 +4,4 @@ The executable file is inside the folder "dist" and the source code is inside th
 
 To use it please click the button "cargar fractal", then choose a color from the palette and the fractal you want to draw. to Zoom in and out, scroll up and down.
 
-![alt text](https://github.com/carovaldezg/fractalsInJava/blob/master/fractals.jpg)
+![image](https://github.com/carovaldezg/fractalsInJava/blob/master/fractals.jpg)
